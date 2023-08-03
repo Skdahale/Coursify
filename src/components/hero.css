@@ -62,7 +62,7 @@ html{
     width: 42em;
     border-radius: 30px;
     z-index: 0;
-    background: url("D:\code and setups\vs code\react js\go-app\src\components\assets\image\hired_bg.png");
+    /* background: url("D:\code and setups\vs code\react js\go-app\src\components\assets\image\hired_bg.png"); */
     background-repeat: no-repeat;
     background-size: cover;
 }

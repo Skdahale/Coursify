@@ -1,6 +1,8 @@
 import React from "react";
 import "./hero.css";
 import playImage from "./assets/image/play.gif";
+import hired from "./assets/image/hired_bg.png";
+
 import grainIcon from "./assets/image/google.png";
 import profile from "./assets/image/farmer_a.png";
 import calendarIcon from "./assets/image/calendar.png";
@@ -16,7 +18,7 @@ export default function Hero() {
       <div className="hero_container">
         <section className="welcome_sctn">
           <div className="extra-img-bg"></div>
-
+         <img className="img-bg" src={hired} alt="/" />
           <div className="section_container">
             <div className=" home-text">
               <div className="slogan_sctn text-wrap">
