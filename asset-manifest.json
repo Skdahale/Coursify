@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Coursify/static/css/main.b2602488.css",
+    "main.js": "/Coursify/static/js/main.5945a064.js",
+    "static/js/787.d65dc3fa.chunk.js": "/Coursify/static/js/787.d65dc3fa.chunk.js",
+    "static/media/hired_bg.png": "/Coursify/static/media/hired_bg.4662e6f3eae268a4086c.png",
+    "static/media/play.gif": "/Coursify/static/media/play.c49d7135ed36b20a0472.gif",
+    "static/media/market.gif": "/Coursify/static/media/market.d35790eefb2c8ce981fb.gif",
+    "static/media/correct.svg": "/Coursify/static/media/correct.cba11a26ea1719151061a91033c53c4e.svg",
+    "index.html": "/Coursify/index.html",
+    "main.b2602488.css.map": "/Coursify/static/css/main.b2602488.css.map",
+    "main.5945a064.js.map": "/Coursify/static/js/main.5945a064.js.map",
+    "787.d65dc3fa.chunk.js.map": "/Coursify/static/js/787.d65dc3fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2602488.css",
+    "static/js/main.5945a064.js"
+  ]
+}
